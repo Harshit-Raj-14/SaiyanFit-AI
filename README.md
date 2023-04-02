@@ -28,9 +28,9 @@ Reac.js, Next.js, HTML5, CSS3, JavaScript, OPEN AI API
 
 > In case you got an error run this
 > `npm install -g yarn`
-> and return the above line again
+> and run the above line again
 
-#### run it
+run it: 
 `yarn dev`
 
 open localhost:3000
